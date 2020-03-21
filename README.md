@@ -6,7 +6,7 @@ You can read the full tutorial for these examples [here](TODO).
 
 ## Run the example
 
-You'll need [Node]() and [protop](). You'll also need an implementation of the `MoneyService` running at `localhost:8080`.
+You'll need [Node]() and [protop](https://protop.io). You'll also need an implementation of the `MoneyService` running at `localhost:8080`.
 
 Install with:
 ```bash
